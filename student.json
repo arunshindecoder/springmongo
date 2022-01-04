@@ -1,0 +1,400 @@
+[{
+  "_id": {
+    "$oid": "61d1544a3acca82c68c9de98"
+  },
+  "name": "Ravincra Shinde",
+  "mail": "ravi@gmail.com",
+  "department": {
+    "department_name": "Computer Science",
+    "location": "Second Floor"
+  },
+  "subjects": [
+    {
+      "subject_name": "Java",
+      "marks_obtained": 98
+    },
+    {
+      "subject_name": "JavaScript",
+      "marks_obtained": 99
+    }
+  ],
+  "_class": "com.arun.sprmon.entity.Student"
+},{
+  "_id": {
+    "$oid": "61d1574a3acca82c68c9de9b"
+  },
+  "name": "Nitin Shinde",
+  "mail": "nitin@gmail.com",
+  "department": {
+    "department_name": "Computer Science",
+    "location": "Second Floor"
+  },
+  "subjects": [
+    {
+      "subject_name": "Java",
+      "marks_obtained": 98
+    },
+    {
+      "subject_name": "JavaScript",
+      "marks_obtained": 99
+    }
+  ],
+  "_class": "com.arun.sprmon.entity.Student"
+},{
+  "_id": {
+    "$oid": "61d1f3b23acca82c68c9dea9"
+  },
+  "name": "Nitin Shinde",
+  "mail": "nitin@gmail.com",
+  "department": {
+    "department_name": "Computer Science 2",
+    "location": "Third Floor"
+  },
+  "subjects": [
+    {
+      "subject_name": "Java Spring",
+      "marks_obtained": 100
+    },
+    {
+      "subject_name": "Kafka",
+      "marks_obtained": 100
+    }
+  ],
+  "_class": "com.arun.sprmon.entity.Student"
+},{
+  "_id": {
+    "$oid": "61d24d353acca82c68c9deb9"
+  },
+  "name": "Pallavi Shinde",
+  "mail": "pallavi@yahoo.com",
+  "department": {
+    "department_name": "Computer Science 3",
+    "location": "Fourth Floor"
+  },
+  "subjects": [
+    {
+      "subject_name": "Designing Java Spring",
+      "marks_obtained": 100
+    },
+    {
+      "subject_name": "Deisgining Kafka",
+      "marks_obtained": 100
+    }
+  ],
+  "_class": "com.arun.sprmon.entity.Student"
+},{
+  "_id": {
+    "$oid": "61d25b9e3acca82c68c9deba"
+  },
+  "name": "Abhay Shinde",
+  "mail": "abhay@hotmail.com",
+  "department": {
+    "department_name": "Fifth Grade",
+    "location": "Fourth Floor"
+  },
+  "subjects": [
+    {
+      "subject_name": "Designing Algebra Spring",
+      "marks_obtained": 90
+    },
+    {
+      "subject_name": "Deisgining History",
+      "marks_obtained": 98
+    }
+  ],
+  "_class": "com.arun.sprmon.entity.Student"
+},{
+  "_id": {
+    "$oid": "61d25bbf3acca82c68c9debb"
+  },
+  "name": "Ishan Shinde",
+  "mail": "ishan@hotmail.com",
+  "department": {
+    "department_name": "Second Grade",
+    "location": "Fourth Floor"
+  },
+  "subjects": [
+    {
+      "subject_name": "English",
+      "marks_obtained": 90
+    },
+    {
+      "subject_name": "Maths",
+      "marks_obtained": 98
+    }
+  ],
+  "_class": "com.arun.sprmon.entity.Student"
+},{
+  "_id": {
+    "$oid": "61d25bcf3acca82c68c9debc"
+  },
+  "name": "Arju Shinde",
+  "mail": "arjun@hotmail.com",
+  "department": {
+    "department_name": "Second Grade",
+    "location": "Fourth Floor"
+  },
+  "subjects": [
+    {
+      "subject_name": "Math",
+      "marks_obtained": 90
+    },
+    {
+      "subject_name": "English",
+      "marks_obtained": 98
+    }
+  ],
+  "_class": "com.arun.sprmon.entity.Student"
+},{
+  "_id": {
+    "$oid": "61d25bdb3acca82c68c9debd"
+  },
+  "name": "Arnav Shinde",
+  "mail": "arnav@hotmail.com",
+  "department": {
+    "department_name": "Second Grade",
+    "location": "Fourth Floor"
+  },
+  "subjects": [
+    {
+      "subject_name": "Maths",
+      "marks_obtained": 90
+    },
+    {
+      "subject_name": "English",
+      "marks_obtained": 98
+    }
+  ],
+  "_class": "com.arun.sprmon.entity.Student"
+},{
+  "_id": {
+    "$oid": "61d25be73acca82c68c9debe"
+  },
+  "name": "Sheetal Shinde",
+  "mail": "sheetal@hotmail.com",
+  "department": {
+    "department_name": "Second Grade",
+    "location": "Fourth Floor"
+  },
+  "subjects": [
+    {
+      "subject_name": "Maths",
+      "marks_obtained": 90
+    },
+    {
+      "subject_name": "English",
+      "marks_obtained": 98
+    }
+  ],
+  "_class": "com.arun.sprmon.entity.Student"
+},{
+  "_id": {
+    "$oid": "61d25bf43acca82c68c9debf"
+  },
+  "name": "Vahini Shinde",
+  "mail": "vahini@hotmail.com",
+  "department": {
+    "department_name": "Second Grade",
+    "location": "Fourth Floor"
+  },
+  "subjects": [
+    {
+      "subject_name": "Maths",
+      "marks_obtained": 90
+    },
+    {
+      "subject_name": "English",
+      "marks_obtained": 98
+    }
+  ],
+  "_class": "com.arun.sprmon.entity.Student"
+},{
+  "_id": {
+    "$oid": "61d25bff3acca82c68c9dec0"
+  },
+  "name": "Malhar Shinde",
+  "mail": "malhar@gmail.com",
+  "department": {
+    "department_name": "Second Grade",
+    "location": "Fourth Floor"
+  },
+  "subjects": [
+    {
+      "subject_name": "Maths",
+      "marks_obtained": 90
+    },
+    {
+      "subject_name": "English",
+      "marks_obtained": 98
+    }
+  ],
+  "_class": "com.arun.sprmon.entity.Student"
+},{
+  "_id": {
+    "$oid": "61d25c083acca82c68c9dec1"
+  },
+  "name": "Ishu Shinde",
+  "mail": "ishu@hotmail.com",
+  "department": {
+    "department_name": "Second Grade",
+    "location": "Fourth Floor"
+  },
+  "subjects": [
+    {
+      "subject_name": "Maths",
+      "marks_obtained": 90
+    },
+    {
+      "subject_name": "English",
+      "marks_obtained": 98
+    }
+  ],
+  "_class": "com.arun.sprmon.entity.Student"
+},{
+  "_id": {
+    "$oid": "61d25c1e3acca82c68c9dec2"
+  },
+  "name": "Vedant Suryanvanshi",
+  "mail": "vedant@gmail.com",
+  "department": {
+    "department_name": "Second Grade",
+    "location": "Fourth Floor"
+  },
+  "subjects": [
+    {
+      "subject_name": "Maths",
+      "marks_obtained": 90
+    },
+    {
+      "subject_name": "English",
+      "marks_obtained": 98
+    }
+  ],
+  "_class": "com.arun.sprmon.entity.Student"
+},{
+  "_id": {
+    "$oid": "61d25c2b3acca82c68c9dec3"
+  },
+  "name": "Ashwin Suryanvanshi",
+  "mail": "Ashwin@hotmail.com",
+  "department": {
+    "department_name": "Second Grade",
+    "location": "Fourth Floor"
+  },
+  "subjects": [
+    {
+      "subject_name": "Maths",
+      "marks_obtained": 90
+    },
+    {
+      "subject_name": "English",
+      "marks_obtained": 98
+    }
+  ],
+  "_class": "com.arun.sprmon.entity.Student"
+},{
+  "_id": {
+    "$oid": "61d25c3d3acca82c68c9dec4"
+  },
+  "name": "Anjali Suryanvanshi",
+  "mail": "Anjali@gmail.com",
+  "department": {
+    "department_name": "Second Grade",
+    "location": "Fourth Floor"
+  },
+  "subjects": [
+    {
+      "subject_name": "Maths",
+      "marks_obtained": 90
+    },
+    {
+      "subject_name": "English",
+      "marks_obtained": 98
+    }
+  ],
+  "_class": "com.arun.sprmon.entity.Student"
+},{
+  "_id": {
+    "$oid": "61d25c483acca82c68c9dec5"
+  },
+  "name": "Aditi Suryanvanshi",
+  "mail": "Aditi@hotmail.com",
+  "department": {
+    "department_name": "Second Grade",
+    "location": "Fourth Floor"
+  },
+  "subjects": [
+    {
+      "subject_name": "Maths",
+      "marks_obtained": 90
+    },
+    {
+      "subject_name": "English",
+      "marks_obtained": 98
+    }
+  ],
+  "_class": "com.arun.sprmon.entity.Student"
+},{
+  "_id": {
+    "$oid": "61d25c533acca82c68c9dec6"
+  },
+  "name": "Manohar Suryanvanshi",
+  "mail": "Manohar@hotmail.com",
+  "department": {
+    "department_name": "Second Grade",
+    "location": "Fourth Floor"
+  },
+  "subjects": [
+    {
+      "subject_name": "Maths",
+      "marks_obtained": 90
+    },
+    {
+      "subject_name": "English",
+      "marks_obtained": 98
+    }
+  ],
+  "_class": "com.arun.sprmon.entity.Student"
+},{
+  "_id": {
+    "$oid": "61d25c5d3acca82c68c9dec7"
+  },
+  "name": "Suhas Suryanvanshi",
+  "mail": "suhas@hotmail.com",
+  "department": {
+    "department_name": "Second Grade",
+    "location": "Fourth Floor"
+  },
+  "subjects": [
+    {
+      "subject_name": "Maths",
+      "marks_obtained": 90
+    },
+    {
+      "subject_name": "English",
+      "marks_obtained": 98
+    }
+  ],
+  "_class": "com.arun.sprmon.entity.Student"
+},{
+  "_id": {
+    "$oid": "61d25c763acca82c68c9dec8"
+  },
+  "name": "Deepa Suryanvanshi",
+  "mail": "deepa@gmail.com",
+  "department": {
+    "department_name": "Second Grade",
+    "location": "Fourth Floor"
+  },
+  "subjects": [
+    {
+      "subject_name": "Maths",
+      "marks_obtained": 90
+    },
+    {
+      "subject_name": "English",
+      "marks_obtained": 98
+    }
+  ],
+  "_class": "com.arun.sprmon.entity.Student"
+}]
