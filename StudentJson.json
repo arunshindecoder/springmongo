@@ -1,0 +1,18 @@
+{
+    "name" : "Pallavi Shinde",
+    "email" : "pallavi@hotmail.com",
+    "department" :{
+        "departmentName" : "Computer Science 3",
+        "location" : "Fourth Floor"
+    },
+    "subjects" : [
+        {
+            "subjectName" : "Designing Java Spring",
+            "marksObtained" : "100"
+        },
+        {
+            "subjectName" : "Deisgining Kafka",
+            "marksObtained" : "100"
+        }
+    ]
+}
