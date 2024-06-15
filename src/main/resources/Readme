@@ -1,0 +1,3 @@
+cmd> mongod to start mongo server.
+Start the boot aplication using boot Dashboard.
+use postman to query the apis

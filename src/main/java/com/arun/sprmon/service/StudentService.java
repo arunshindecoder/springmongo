@@ -66,8 +66,8 @@ public class StudentService {
 		return studRepo.findByNameOrEmail(name, email);
 	}
 
-	public StudentPageData getAllStudentsWithPagination(int pageNo, int noOfRecords) {
-		Pageable pageable = PageRequest.of(pageNo - 1, noOfRecords);
+	public StudentPageData getAllStudentsWithPagination(int pageNo, int noOfRecordsToDisplayOnPage) {
+		Pageable pageable = PageRequest.of(pageNo - 1, noOfRecordsToDisplayOnPage);
 		Page<Student> page = studRepo.findAll(pageable);
 		StudentPageData studPageData = new StudentPageData();
 		studPageData.setTotalPages(page.getTotalPages());
